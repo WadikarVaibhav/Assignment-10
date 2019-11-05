@@ -1,5 +1,5 @@
 # Assignment-10
-jQuery Part II
+JQuery Part II
 
 # Technologies
 1. jQuery
